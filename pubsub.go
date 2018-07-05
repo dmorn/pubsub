@@ -24,7 +24,7 @@ SOFTWARE.
 
 // Package pubsub provides the core functionalities to handle
 // publication/subscription pipelines.
-package main
+package pubsub
 
 import (
 	"crypto/sha1"
