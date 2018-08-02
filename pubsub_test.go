@@ -29,7 +29,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/danielmorandini/booster/pubsub"
+	"github.com/tecnoporto/pubsub"
 )
 
 var nop = func(interface{}) error {
